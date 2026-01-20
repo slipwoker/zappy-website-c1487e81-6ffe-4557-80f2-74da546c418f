@@ -1,61 +1,51 @@
-# פרגולון — Generative Engine Optimization Map
-
-> A פרגולות אלומיניום business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://-c1487e81.zappy5.app
+https://example.com
 גלו את מגוון פרגולות אלומיניום המתקדמות שלנו. עיצובים מודרניים, איכות מעולה ושירות מקצועי. צרו קשר עוד היום לייעוץ חינם!
 
 ### מוצרים
-https://-c1487e81.zappy5.app/products
+https://example.com/products
 עיינו בקטלוג המוצרים המלא שלנו - פרגולות אלומיניום למרפסת, פרגולה חשמלית נפתחת, פרגולות לגינה ועוד. מחירים תחרותיים ואיכות מעולה.
 
 ### גלריה
-https://-c1487e81.zappy5.app/gallery
+https://example.com/gallery
 צפו בגלריית הפרויקטים שלנו - פרגולות אלומיניום מותקנות בבתים פרטיים, מרפסות וגינות. קבלו השראה לעיצוב החלל החיצוני שלכם.
 
 ### אודות
-https://-c1487e81.zappy5.app/about
+https://example.com/about
 הכירו את פרגולון - חברה מובילה בתחום פרגולות אלומיניום. ניסיון רב שנים, מקצועיות ללא פשרות ושירות אישי לכל לקוח.
 
 ### צור קשר
-https://-c1487e81.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם פרגולון לקבלת ייעוץ מקצועי והצעת מחיר אישית לפרגולות אלומיניום. אנו זמינים לכל שאלה ונשמח לעזור לכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-c1487e81.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-c1487e81.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-c1487e81.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About פרגולון
-פרגולון is a business in the פרגולות אלומיניום industry.
-
-## Target Audience
-לקוחות פרטיים
-
-## Industry
-פרגולות אלומיניום
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-c1487e81.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-c1487e81.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
